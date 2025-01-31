@@ -114,7 +114,7 @@ menuentry "Solus ISO / Xfce" --class Solus {
 	loopback loop (${iso_partition})${iso_file}
 
 
-	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLiveXfce rd.live.overlay.overlayfs=1"
+	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLiveXFCE-Beta rd.live.overlay.overlayfs=1"
 
 	set locale_option=""
 
