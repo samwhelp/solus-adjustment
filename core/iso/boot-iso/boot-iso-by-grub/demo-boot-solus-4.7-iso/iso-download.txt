@@ -1,0 +1,12 @@
+https://downloads.getsol.us/isos/2025-01-26/Solus-Budgie-Release-2025-01-26.iso
+https://downloads.getsol.us/isos/2025-01-26/Solus-GNOME-Release-2025-01-26.iso
+https://downloads.getsol.us/isos/2025-01-26/Solus-Plasma-Release-2025-01-26.iso
+https://downloads.getsol.us/isos/2025-01-26/Solus-XFCE-Beta-Release-2025-01-26.iso
+
+
+
+
+https://downloads.getsol.us/isos/2025-01-26/Solus-Budgie-Release-2025-01-26.iso.sha256sum
+https://downloads.getsol.us/isos/2025-01-26/Solus-GNOME-Release-2025-01-26.iso.sha256sum
+https://downloads.getsol.us/isos/2025-01-26/Solus-Plasma-Release-2025-01-26.iso.sha256sum
+https://downloads.getsol.us/isos/2025-01-26/Solus-XFCE-Beta-Release-2025-01-26.iso.sha256sum

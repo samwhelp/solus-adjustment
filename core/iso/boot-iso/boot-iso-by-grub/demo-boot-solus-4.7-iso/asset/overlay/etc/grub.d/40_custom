@@ -1,0 +1,137 @@
+#!/bin/sh
+exec tail -n +3 $0
+# This file provides an easy way to add custom menu entries.  Simply type the
+# menu entries you want to add after this comment.  Be careful not to change
+# the 'exec tail' line above.
+
+
+
+
+menuentry "Solus ISO / Budgie" --class Solus {
+	set iso_file="/opt/iso/solus/latest/Solus-Budgie-Release-2025-01-26.iso"
+	search --set=iso_partition --no-floppy --file ${iso_file}
+	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
+	set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
+	loopback loop (${iso_partition})${iso_file}
+
+
+	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLiveBudgie rd.live.overlay.overlayfs=1"
+
+	set locale_option=""
+
+
+	set splash_option=""
+	#set splash_option="quiet splash"
+
+
+	set extra_option=""
+	#set extra_option="ro rd.luks=0 rd.md=0"
+	#set extra_option="ro rd.luks=0 rd.md=0 nomodeset"
+	#set extra_option="ro rd.luks=0 rd.md=0 rd.debug rd.live.debug systemd.log_level=debug"
+
+
+	set boot_option="${essential_option} ${locale_option} ${splash_option} ${extra_option}"
+
+
+	linux (loop)/boot/kernel ${boot_option} --
+	initrd (loop)/boot/initrd.img
+}
+
+
+
+
+menuentry "Solus ISO / Gnome Shell" --class Solus {
+	set iso_file="/opt/iso/solus/latest/Solus-GNOME-Release-2025-01-26.iso"
+	search --set=iso_partition --no-floppy --file ${iso_file}
+	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
+	set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
+	loopback loop (${iso_partition})${iso_file}
+
+
+	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLiveGNOME rd.live.overlay.overlayfs=1"
+
+	set locale_option=""
+
+
+	set splash_option=""
+	#set splash_option="quiet splash"
+
+
+	set extra_option=""
+	#set extra_option="ro rd.luks=0 rd.md=0"
+	#set extra_option="ro rd.luks=0 rd.md=0 nomodeset"
+	#set extra_option="ro rd.luks=0 rd.md=0 rd.debug rd.live.debug systemd.log_level=debug"
+
+
+	set boot_option="${essential_option} ${locale_option} ${splash_option} ${extra_option}"
+
+
+	linux (loop)/boot/kernel ${boot_option} --
+	initrd (loop)/boot/initrd.img
+}
+
+
+
+
+menuentry "Solus ISO / Kde Plasma" --class Solus {
+	set iso_file="/opt/iso/solus/latest/Solus-Plasma-Release-2025-01-26.iso"
+	search --set=iso_partition --no-floppy --file ${iso_file}
+	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
+	set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
+	loopback loop (${iso_partition})${iso_file}
+
+
+	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLivePlasma rd.live.overlay.overlayfs=1"
+
+	set locale_option=""
+
+
+	set splash_option=""
+	#set splash_option="quiet splash"
+
+
+	set extra_option=""
+	#set extra_option="ro rd.luks=0 rd.md=0"
+	#set extra_option="ro rd.luks=0 rd.md=0 nomodeset"
+	#set extra_option="ro rd.luks=0 rd.md=0 rd.debug rd.live.debug systemd.log_level=debug"
+
+
+	set boot_option="${essential_option} ${locale_option} ${splash_option} ${extra_option}"
+
+
+	linux (loop)/boot/kernel ${boot_option} --
+	initrd (loop)/boot/initrd.img
+}
+
+
+
+
+menuentry "Solus ISO / Xfce" --class Solus {
+	set iso_file="/opt/iso/solus/latest/Solus-XFCE-Beta-Release-2025-01-26.iso"
+	search --set=iso_partition --no-floppy --file ${iso_file}
+	probe --set=iso_partition_uuid --fs-uuid ${iso_partition}
+	set img_dev="/dev/disk/by-uuid/${iso_partition_uuid}"
+	loopback loop (${iso_partition})${iso_file}
+
+
+	set essential_option="iso-scan/filename=${iso_file} root=live:CDLABEL=SolusLiveXfce rd.live.overlay.overlayfs=1"
+
+	set locale_option=""
+
+
+	set splash_option=""
+	#set splash_option="quiet splash"
+
+
+	set extra_option=""
+	#set extra_option="ro rd.luks=0 rd.md=0"
+	#set extra_option="ro rd.luks=0 rd.md=0 nomodeset"
+	#set extra_option="ro rd.luks=0 rd.md=0 rd.debug rd.live.debug systemd.log_level=debug"
+
+
+	set boot_option="${essential_option} ${locale_option} ${splash_option} ${extra_option}"
+
+
+	linux (loop)/boot/kernel ${boot_option} --
+	initrd (loop)/boot/initrd.img
+}
