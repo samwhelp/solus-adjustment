@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
+| [Solus Note](https://samwhelp.github.io/note-about-solus/) | [GitHub](https://github.com/samwhelp/note-about-solus) |
 
 
 
