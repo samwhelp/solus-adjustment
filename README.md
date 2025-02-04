@@ -1,2 +1,38 @@
-# solus-adjustment
-solus-adjustment
+
+
+# Home
+
+| Link | GitHub |
+| ---- | ------ |
+| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
+
+
+
+
+## Subject
+
+* [Solus Adjustment](#mx-linux-adjustment)
+* [Link](#link)
+
+
+
+
+## Solus Adjustment
+
+| Solus Adjustment |
+| ---------------- |
+| [Solus Budgie Adjustment](https://github.com/samwhelp/note-about-solus-budgie) |
+| [Solus Gnome Shell Adjustment](https://github.com/samwhelp/note-about-solus-gnome-shell) |
+| [Solus Xfce Adjustment](https://github.com/samwhelp/note-about-solus-xfce) |
+| [Solus Kde Plasma Adjustment](https://github.com/samwhelp/note-about-solus-kde-plasma) |
+
+
+
+
+## Link
+
+| Link | GitHub |
+| ---- | ------ |
+| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
+| [Linux Mint Adjustment](https://samwhelp.github.io/linuxmint-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-adjustment) |
