@@ -27,10 +27,10 @@
 
 | Solus Adjustment |
 | ---------------- |
-| [Solus Budgie Adjustment](https://github.com/samwhelp/note-about-solus-budgie) |
-| [Solus Gnome Shell Adjustment](https://github.com/samwhelp/note-about-solus-gnome-shell) |
-| [Solus Xfce Adjustment](https://github.com/samwhelp/note-about-solus-xfce) |
-| [Solus Kde Plasma Adjustment](https://github.com/samwhelp/note-about-solus-kde-plasma) |
+| [Solus Budgie Adjustment](https://github.com/samwhelp/solus-budgie-adjustment) |
+| [Solus Gnome Shell Adjustment](https://github.com/samwhelp/solus-gnome-shell-adjustment) |
+| [Solus Xfce Adjustment](https://github.com/samwhelp/solus-xfce-adjustment) |
+| [Solus Kde Plasma Adjustment](https://github.com/samwhelp/solus-kde-plasma-adjustment) |
 
 
 
