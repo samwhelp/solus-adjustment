@@ -1,20 +1,20 @@
-https://downloads.getsol.us/isos/2025-11-29/Solus-Budgie-Release-2025-11-29.iso
-https://downloads.getsol.us/isos/2025-11-29/Solus-GNOME-Release-2025-11-29.iso
-https://downloads.getsol.us/isos/2025-11-29/Solus-Plasma-Release-2025-11-29.iso
-https://downloads.getsol.us/isos/2025-11-29/Solus-Xfce-Release-2025-11-29.iso
+https://downloads.getsol.us/isos/2026-04-18/Solus-Budgie-Release-2026-04-18.iso
+https://downloads.getsol.us/isos/2026-04-18/Solus-GNOME-Release-2026-04-18.iso
+https://downloads.getsol.us/isos/2026-04-18/Solus-Plasma-Release-2026-04-18.iso
+https://downloads.getsol.us/isos/2026-04-18/Solus-Xfce-Release-2026-04-18.iso
 
 
 
 
-https://downloads.getsol.us/isos/2025-11-29/Solus-Budgie-Release-2025-11-29.iso.sha256sum
-https://downloads.getsol.us/isos/2025-11-29/Solus-GNOME-Release-2025-11-29.iso.sha256sum
-https://downloads.getsol.us/isos/2025-11-29/Solus-Plasma-Release-2025-11-29.iso.sha256sum
-https://downloads.getsol.us/isos/2025-11-29/Solus-Xfce-Release-2025-11-29.iso.sha256sum
+https://downloads.getsol.us/isos/2026-04-18/Solus-Budgie-Release-2026-04-18.iso.sha256sum
+https://downloads.getsol.us/isos/2026-04-18/Solus-GNOME-Release-2026-04-18.iso.sha256sum
+https://downloads.getsol.us/isos/2026-04-18/Solus-Plasma-Release-2026-04-18.iso.sha256sum
+https://downloads.getsol.us/isos/2026-04-18/Solus-Xfce-Release-2026-04-18.iso.sha256sum
 
 
 
 
-https://downloads.getsol.us/isos/2025-11-29/Solus-Budgie-Release-2025-11-29.iso.sha256sum.sign
-https://downloads.getsol.us/isos/2025-11-29/Solus-GNOME-Release-2025-11-29.iso.sha256sum.sign
-https://downloads.getsol.us/isos/2025-11-29/Solus-Plasma-Release-2025-11-29.iso.sha256sum.sign
-https://downloads.getsol.us/isos/2025-11-29/Solus-Xfce-Release-2025-11-29.iso.sha256sum.sign
+https://downloads.getsol.us/isos/2026-04-18/Solus-Budgie-Release-2026-04-18.iso.sha256sum.sign
+https://downloads.getsol.us/isos/2026-04-18/Solus-GNOME-Release-2026-04-18.iso.sha256sum.sign
+https://downloads.getsol.us/isos/2026-04-18/Solus-Plasma-Release-2026-04-18.iso.sha256sum.sign
+https://downloads.getsol.us/isos/2026-04-18/Solus-Xfce-Release-2026-04-18.iso.sha256sum.sign
