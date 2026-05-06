@@ -20,12 +20,12 @@
 
 ## Solus Respin
 
-| Solus Respin |
-| ------------ |
-| [Solus Budgie Adjustment](https://github.com/samwhelp/solus-budgie-adjustment) |
-| [Solus Gnome Shell Adjustment](https://github.com/samwhelp/solus-gnome-shell-adjustment) |
-| [Solus Xfce Adjustment](https://github.com/samwhelp/solus-xfce-adjustment) |
-| [Solus Kde Plasma Adjustment](https://github.com/samwhelp/solus-kde-plasma-adjustment) |
+| Solus Respin | GitHub |
+| ------------ | ------ |
+| [Solus Budgie Adjustment](https://samwhelp.github.io/solus-budgie-adjustment/) | [GitHub](https://github.com/samwhelp/solus-budgie-adjustment) |
+| [Solus Gnome Shell Adjustment](https://samwhelp.github.io/solus-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/solus-gnome-shell-adjustment) |
+| [Solus Xfce Adjustment](https://samwhelp.github.io/solus-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/solus-xfce-adjustment) |
+| [Solus Kde Plasma Adjustment](https://samwhelp.github.io/solus-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/solus-kde-plasma-adjustment) |
 
 
 
