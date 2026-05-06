@@ -27,7 +27,7 @@
 ## source /usr/share/fzf/key-bindings.bash
 ##
 
-[ -f /usr/share/fzf/key-bindings.bash ] && . /usr/share/fzf/key-bindings.bash
+#[ -f /usr/share/fzf/key-bindings.bash ] && . /usr/share/fzf/key-bindings.bash
 
 
 ##
@@ -40,6 +40,19 @@
 ##
 
 #[ -f /usr/share/doc/fzf/examples/key-bindings.bash ] && . /usr/share/doc/fzf/examples/key-bindings.bash
+
+
+
+
+##
+## ## Solus
+##
+## $ sudo eopkg install fzf
+##
+## source /usr/share/fzf/key-bindings.bash
+##
+
+[ -f /usr/share/fzf/key-bindings.bash ] && . /usr/share/fzf/key-bindings.bash
 
 
 ##
