@@ -17,16 +17,16 @@
 
 ## Subject
 
-* [Solus Adjustment](#mx-linux-adjustment)
+* [Solus Respin](#solus-respin)
 * [Link](#link)
 
 
 
 
-## Solus Adjustment
+## Solus Respin
 
-| Solus Adjustment |
-| ---------------- |
+| Solus Respin |
+| ------------ |
 | [Solus Budgie Adjustment](https://github.com/samwhelp/solus-budgie-adjustment) |
 | [Solus Gnome Shell Adjustment](https://github.com/samwhelp/solus-gnome-shell-adjustment) |
 | [Solus Xfce Adjustment](https://github.com/samwhelp/solus-xfce-adjustment) |
